@@ -1,0 +1,6 @@
+.homepage
+.page for products
+.checkout products
+.game system 
++ search bar 
++ 3 clicky buttons

@@ -35,17 +35,17 @@
         <div class="small-container single-product">
             <div class="row">
         <div class="col-2">
-            <img src="images/gallery-1.png" width="100%" id="ProductImg">
+            <img src="images/gallery-1.png" alt="Main Product Image"width="100%" id="product-img">
 
             <div class="small-img-row">
             <div class="small-img-col">
-            <img src="images/gallery-1.png" width="100%" class="small-img">
+            <img src="images/gallery-1.png" alt="Product Image 1" height= "100px "width="100px" class="small-img">
             </div>
             <div class="small-img-col">
-            <img src="images/gallery-2.png" width="100%" class="small-img">
+            <img src="images/gallery-2.png" alt="Product Image 2" height = "100px" width="100px" class="small-img">
             </div>
             <div class="small-img-col">
-            <img src="images/gallery-3.png" width="100%" class="small-img">
+            <img src="images/gallery-3.png" alt="Product Image 3" height = "100px" width="100px" class="small-img">
             </div>
             </div>
         </div>
@@ -61,7 +61,7 @@
                         <option>Wholegrain</option>
                     </select>
                     <input type="number" value="1">
-                    <a href="" class="btn">Add To Cart</a>
+                    <a href="cart.html" class="btn">Add To Cart</a>
 
                     <h3>Product Details <i class="fa fa-indent"></i></h3>
                     <br>
@@ -86,7 +86,7 @@
            
             <div class="row">
                 <div class = "col-4">
-                    <img src="images/product-9.png" alt="">
+                    <img src="images/product-9.png" alt="Calculator">
                     <h4>CASIO fx 911ES PLUS-2</h4>
                     <div class="rating">
                         <i class="fa fa-star"></i>
@@ -99,7 +99,7 @@
                     <p>$29.81</p>
                 </div>
                 <div class = "col-4">
-                    <img src="images/product-10.png" alt="">
+                    <img src="images/product-10.png" alt="Katana">
                     <h4>Holo Raster Kiyomitsu Katana</h4>
                     <div class="rating">
                         <i class="fa fa-star"></i>
@@ -112,7 +112,7 @@
                     <p>$32.24</p>
                 </div>
                 <div class = "col-4">
-                    <img src="images/product-11.png" alt="">
+                    <img src="images/product-11.png" alt="BB Gun">
                     <h4>DRAGON-SP</h4>
                     <div class="rating">
                         <i class="fa fa-star"></i>
@@ -125,7 +125,7 @@
                     <p>$58401.25</p>
                 </div>
                 <div class = "col-4">
-                    <img src="images/product-12.png" alt="">
+                    <img src="images/product-12.png" alt="Cat Food">
                     <h4>Purina Friskies Pate Wet Cat Food</h4>
                     <div class="rating">
                         <i class="fa fa-star"></i>
@@ -152,12 +152,12 @@
                         <h3>Download Our App</h3>
                         <p>Download our app for Android and iOS</p>
                         <div class="app-logo">
-                            <img src="images/play-store.png">
-                            <img src="images/app-store.png">
+                            <img src="images/play-store.png" alt="Play Store">
+                            <img src="images/app-store.png" alt="App Store">
                         </div>
                     </div>
                     <div class="footer-col-2">
-                        <img src="images/logo-white.png">
+                        <img src="images/logo-white.png" alt="White Logo">
                         <p>We sell anything and everything that anybody wants.</p>
                     </div>
                     <div class="footer-col-3">
@@ -199,7 +199,7 @@
 
         <!--Product Gallery Script-->
         <script>
-            var ProductImg = document.getElementById("ProductImg");
+            var ProductImg = document.getElementById("product-img");
             var SmallImg = document.getElementByClassName("small-img");
 
                 SmallImg[0].onclick = function()

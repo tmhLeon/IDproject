@@ -20,3 +20,6 @@ Lasagna does not stack. That means if the user misses a day, the daily lasagna c
 We plan to make a ecommerce website based on Lazada but we changed the flower-watering game and converted it to a virtual pet game 
 where it will be more engaging for the users. The virtual pet will be a purple Garfield which it eats lasagna to give a $1 voucher.
 The lasagna will be replenished daily and if the user missed a day, the lasagna will not be over 1.
+
+# Progress
+So far we managed to do the website and the game. Im now trying to utilize restdb to store the voucher point system.

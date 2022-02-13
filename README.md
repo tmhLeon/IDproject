@@ -4,6 +4,13 @@
 This website is an E-Commerce website, catered to online shoppers and people who purchase items overseas.
 It is made to preview and sell products available, as well as play games to win coins for vouchers.
 
+# Features
+- Working Navigation Bar
+- Interactive Product Page
+- 2 Working Product Detail Pages
+- Shopping Cart
+- Working Game Page
+
 # The Game
 The game works by feeding our cat, Garfeldi. Users get one(1) daily lasagna, and will use it to feed Garfeldi.
 For every lasagna fed, the player gets a $1 voucher.

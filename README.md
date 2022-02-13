@@ -17,6 +17,6 @@ For every lasagna fed, the player gets a $1 voucher.
 Lasagna does not stack. That means if the user misses a day, the daily lasagna count will not go beyond 1.
 
 # Dev Notes
-We plan to make a ecommerce website based on Lazada but we changed the flower watering game to convert a virtual pet game 
-where it will be more engaging for the users. The virtual pet will be a purple Garfield whereas it eats lasagna to give a $1 voucher.
+We plan to make a ecommerce website based on Lazada but we changed the flower-watering game and converted it to a virtual pet game 
+where it will be more engaging for the users. The virtual pet will be a purple Garfield which it eats lasagna to give a $1 voucher.
 The lasagna will be replenished daily and if the user missed a day, the lasagna will not be over 1.
